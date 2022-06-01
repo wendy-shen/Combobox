@@ -1,0 +1,34 @@
+﻿.combobox input.form-control {
+    padding: 0 5px;
+    font-size: 14px;
+}
+
+.combobox .dropdown-menu {
+    overflow: auto;
+}
+
+    .combobox .dropdown-menu > li > a {
+        padding: 3px 7px;
+    }
+
+        .combobox .dropdown-menu > li > a:focus,
+        .combobox .dropdown-menu > li > a:hover {
+            background-color: #66afe9;
+            color: #fff;
+        }
+
+.combobox-md {
+    width: 148px;
+}
+
+.combobox-sm {
+    width: 114px;
+}
+
+.combobox-lg {
+    width: 209px;
+}
+
+.combobox-xs {
+    width: 79px;
+}
